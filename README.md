@@ -40,12 +40,9 @@ To get started with this project, follow these steps to set it up on your local 
 
 5. **Run the Project**:
    - Start the project by running the appropriate command. This could be something like:
-     ```sh
-   Open command line
-    cd/"sourceOfRepo"
-   jupyter lab
+       ```sh
+     jupyter lab
      ```
-   
 7. **Access the Project**:
    - Once the project is running, you can access it in your web browser or via a specified URL.
 
